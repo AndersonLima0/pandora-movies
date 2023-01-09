@@ -8,9 +8,10 @@ function App() {
   return (
     <div className="App">
       <Navbar/>
-      <h2>Pandora Movies</h2>
       <Outlet/>
     </div>
+    //Um <Outlet>deve ser usado em elementos de rota pai para renderizar seus elementos de rota filho
+    
   )
 }
 

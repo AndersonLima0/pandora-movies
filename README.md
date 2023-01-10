@@ -6,7 +6,7 @@ Home:
 <br>
 
 Busca:
-<img src="src/assets/img12.jpg" width="700px"/>
+<img src="src/assets/img2.jpg" width="700px"/>
 <br>
 
 Detalhes do filme:

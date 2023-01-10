@@ -1,7 +1,7 @@
 # Pandora Movies
 Study on the API TMDB
 
-Home:
+<h2>Home:</h2>
 <img src="src/assets/img1.jpg" width="700px"/>
 <br>
 

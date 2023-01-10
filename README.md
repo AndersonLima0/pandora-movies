@@ -3,8 +3,8 @@ Study on the API TMDB
 
 <h3>
 Home
-<img src="src/assets/img1.jpg" width="300px"/>
-</h1>
+<img src="src/assets/img1.jpg" width="700px"/>
+</h3>
 
 In the project directory, you can run:
 

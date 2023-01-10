@@ -5,12 +5,12 @@ Study on the API TMDB
 <img src="src/assets/img1.jpg" width="700px"/>
 <br>
 
-Busca:
+<h2>Busca:</h2>
 <img src="src/assets/img2.jpg" width="700px"/>
 <br>
 
-Detalhes do filme:
-<img src="src/assets/img3.jpg" width="700px"/>
+<h2>Detalhes do filme:</h2>
+<img src="src/assets/img4.jpg" width="700px"/>
 <br>
 
 In the project directory, you can run:

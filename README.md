@@ -1,9 +1,9 @@
 # Pandora Movies
 Study on the API TMDB
 
-<h1>
+<h3>
 Home
-<img src="src/assets/img1.jpg"/>
+<img src="src/assets/img1.jpg" width="300px"/>
 </h1>
 
 In the project directory, you can run:
